@@ -1,2 +1,2 @@
 # HelloGitHub
-Hello, it me!
+Hello, it's me!
